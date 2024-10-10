@@ -2048,6 +2048,11 @@ input, select, textarea {
 
 /* Image */
 
+imguni {
+  width: 100px,
+  height: auto
+}
+
 	.image {
 		border-radius: 5px;
 		border: 0;
